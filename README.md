@@ -17,7 +17,7 @@
 
 ---
 
-<img src="ui/public/envi-icon.png" width="20" align="left">
+<img src="assets/envi-icon.png" width="20" align="left">
 
 **Envi** is an environment-secret manager: encrypted `.env` values, scoped access, an audit trail, and a CLI that gets a secret from your database into a running process without anyone typing it into Slack. Envi is built and run as a product — this repository is also the entire self-hostable stack, for teams who'd rather keep everything on infrastructure they control.
 
